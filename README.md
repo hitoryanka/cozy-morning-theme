@@ -13,10 +13,10 @@
 - ## JSX colors
   <img src="imgs\jsx.png"> <br>
 - ## Styled Components colors
-    <img src="imgs\styledComponents.png">
+    <img src="imgs\styled-components.png">
 
 .
 
-### screenshots are made with **robertz.code-snapshot\***
+### screenshots are made with **robertz.code-snapshot**
 
 **Enjoy!**
