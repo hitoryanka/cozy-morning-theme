@@ -1,0 +1,23 @@
+{
+	"name": "hitoryanka",
+	"displayName": "morning-theme",
+	"publisher": "hitoryanka",
+	"description": "gruvbox inspired cozy theme",
+	"version": "1.0.0",
+	"icon": "imgs/cozy-morning-asa-128-theme.png",
+	"engines": {
+		"vscode": "^1.76.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "cozy morning",
+				"uiTheme": "vs-dark",
+				"path": "./themes/cozy morning-color-theme.json"
+			}
+		]
+	}
+}
