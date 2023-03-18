@@ -11,7 +11,7 @@
 - ## main colors
   <img src="imgs\main.png"> <br>
 - ## JSX colors
-  <img src="imgs\jsx.png"> <br>
+  <img src="imgs\JSX.png"> <br>
 - ## Styled Components colors
     <img src="imgs\styled-components.png">
 
