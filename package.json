@@ -4,7 +4,11 @@
 	"publisher": "hitoryanka",
 	"description": "gruvbox inspired cozy theme",
 	"version": "1.0.0",
-	"icon": "imgs/cozy-morning-asa-128-theme.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hitoryanka/cozy-morning-theme"
+	},
+	"icon": "./imgs/cozy-morning-asa-128-theme.png",
 	"engines": {
 		"vscode": "^1.76.0"
 	},

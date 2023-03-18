@@ -1,16 +1,22 @@
-# hitoryanka README
+# Pretty and cozy JavaScript theme
 
-## Working with Markdown
+# Code example
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+- <img src="imgs\img-1.png"> <br>
+- <img src="imgs\img-2.png"> <br>
+- <img src="imgs\img-3.png"> <br>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+# Color palette
 
-## For more information
+- ## main colors
+  <img src="imgs\main.png"> <br>
+- ## JSX colors
+  <img src="imgs\jsx.png"> <br>
+- ## Styled Components colors
+    <img src="imgs\styledComponents.png">
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+.
+
+### screenshots are made with **robertz.code-snapshot\***
 
 **Enjoy!**
